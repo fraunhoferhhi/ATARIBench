@@ -2,9 +2,9 @@
 
 # ATARIBench: Assess Temporal Abstract Perception and Reasoning of Symbolic Interaction with LLMs
 
-**Karam Tomotaki-Dawoud**<sup>1</sup> · **Alexander Ehrenhoefer**<sup>1,2</sup> · **Katerina Katsarou**<sup>1</sup> · **Sebastian Bosse**<sup>1</sup>
+**Karam Tomotaki-Dawoud**<sup>1</sup> · **Alexander Ehrenhoefer**<sup>1</sup> · **Katerina Katsarou**<sup>1</sup> · **Sebastian Bosse**<sup>1</sup>
 
-<sup>1</sup>Fraunhofer HHI, Berlin, Germany &nbsp;&nbsp; <sup>2</sup>TU Berlin, Germany
+<sup>1</sup>Fraunhofer HHI, Berlin, Germany &nbsp;
 
 **ACCV 2026**
 
